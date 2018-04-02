@@ -36,27 +36,7 @@ body { padding-top: 50px; }
 .form-control { margin-bottom: 20px; display: block; float: left; height: 25px; }
 
 .input_text { display: block; float: left; margin-top: 3px; margin-left: 5px; font-weight: bold; }
-
-#input_room { width: 100px; }
-
-#input_tel { width: 150px; }
-
-#input_surname { width: 200px; }
-
-#input_treсkcode { width: 300px; }
 /*---------------------------------------*/
-
-/*Иконки*/
-/* #ico_question {clear: both; /*margin-top: 150px;*/ margin-left: 10px; font-size: 130%; /*position: fixed;*/ } */
-
-/* #ico_filter { clear: both; /*margin-top: 150px;*/ margin-left: 50px; font-size: 130%; /*position: fixed;*/ } */
-
-/* #ico_repeat { clear: both; /*margin-top: 40px;*/ /*margin-left: 90px;*/ font-size: 130%; /*position: fixed;*/ } */
-/*----------------------------------------*/
-
-/*Таблица 1 и вкладки вместе*/
-#table_tab { margin-top: 65px; position: fixed; }
-/*----------------------------------------*/
 
 /*Касается всех таблиц*/
 .table { width: auto; float: left; }
