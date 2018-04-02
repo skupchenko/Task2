@@ -47,11 +47,11 @@ body { padding-top: 50px; }
 /*---------------------------------------*/
 
 /*Иконки*/
-#ico_question {clear: both; margin-top: 150px; margin-left: 10px; font-size: 130%; position: fixed; }
+/* #ico_question {clear: both; /*margin-top: 150px;*/ margin-left: 10px; font-size: 130%; /*position: fixed;*/ } */
 
-#ico_filter { clear: both; margin-top: 150px; margin-left: 50px; font-size: 130%; position: fixed; }
+/* #ico_filter { clear: both; /*margin-top: 150px;*/ margin-left: 50px; font-size: 130%; /*position: fixed;*/ } */
 
-#ico_repeat { clear: both; margin-top: 40px; margin-left: 90px; font-size: 130%; position: fixed; }
+/* #ico_repeat { clear: both; /*margin-top: 40px;*/ /*margin-left: 90px;*/ font-size: 130%; /*position: fixed;*/ } */
 /*----------------------------------------*/
 
 /*Таблица 1 и вкладки вместе*/
