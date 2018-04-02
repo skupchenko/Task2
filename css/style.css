@@ -1,0 +1,85 @@
+body { padding-top: 50px; }
+
+/*Навигационное меню*/
+.navbar-inverse { background: #3c8dbc; }
+
+.navbar-inverse .navbar-nav > li > a { color: #ffffff; }
+
+.navbar-inverse .navbar-nav > li > a:hover { color: #cecece; }
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+    background-color: #3c8dbc;
+}
+
+.dropdown-menu { background-color: #3c8dbc; }
+
+.dropdown-menu > li > a { color: #ffffff; }
+
+.navbar-inverse .navbar-brand { color: #ffffff; }
+/*---------------------------------------*/
+
+/*Полоса с надписью "КЛИЕНТЫ"*/
+.nav_client {
+    letter-spacing: 4px;
+    background: #3c8dbc;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 7px;
+    font-size: 13pt;
+    color: #ffffff;
+    height: 40px;
+}
+/*---------------------------------------*/
+
+/*Поля для ввода текста*/
+.form-control { margin-bottom: 20px; display: block; float: left; height: 25px; }
+
+.input_text { display: block; float: left; margin-top: 3px; margin-left: 5px; font-weight: bold; }
+
+#input_room { width: 100px; }
+
+#input_tel { width: 150px; }
+
+#input_surname { width: 200px; }
+
+#input_treсkcode { width: 300px; }
+/*---------------------------------------*/
+
+/*Иконки*/
+#ico_question {clear: both; margin-top: 150px; margin-left: 10px; font-size: 130%; position: fixed; }
+
+#ico_filter { clear: both; margin-top: 150px; margin-left: 50px; font-size: 130%; position: fixed; }
+
+#ico_repeat { clear: both; margin-top: 40px; margin-left: 90px; font-size: 130%; position: fixed; }
+/*----------------------------------------*/
+
+/*Таблица 1 и вкладки вместе*/
+#table_tab { margin-top: 65px; position: fixed; }
+/*----------------------------------------*/
+
+/*Касается всех таблиц*/
+.table { width: auto; float: left; }
+/*----------------------------------------*/
+
+/*Таблица 1*/
+#room { width: 50px; text-align: center; background: #d2e2ef; }
+
+#full_name { width: 200px; text-align: center; vertical-align: middle; background: #d2e2ef; }
+
+#tel { width: 150px; text-align: center; vertical-align: middle; background: #d2e2ef; }
+/*----------------------------------------*/
+
+/*Вкладки*/
+.nav-tabs { display: block; float: left; margin-left: 20px; font-weight: bold; }
+
+.tab-content { margin-top: 60px; margin-left: 420px; position: fixed; }
+/*----------------------------------------*/
+
+/*Таблица 2*/
+#trackcod { width: 250px; text-align: center; background: #d2e2ef; }
+
+#status { width: 250px; text-align: center; vertical-align: middle; background: #d2e2ef; }
+/*----------------------------------------*/
+
+
