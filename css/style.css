@@ -36,22 +36,12 @@ body { padding-top: 50px; }
 .input_text { font-weight: bold; display: inline; }
 /*---------------------------------------*/
 
-/*Касается всех таблиц*/
-.table { width: auto; float: left; }
-/*----------------------------------------*/
-
 /*Таблица 1*/
 #room { width: 50px; text-align: center; background: #d2e2ef; }
 
 #full_name { width: 200px; text-align: center; vertical-align: middle; background: #d2e2ef; }
 
 #tel { width: 150px; text-align: center; vertical-align: middle; background: #d2e2ef; }
-/*----------------------------------------*/
-
-/*Вкладки*/
-.nav-tabs { display: block; float: left; margin-left: 20px; font-weight: bold; }
-
-.tab-content { margin-top: 60px; margin-left: 420px; position: fixed; }
 /*----------------------------------------*/
 
 /*Таблица 2*/
