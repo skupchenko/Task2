@@ -22,7 +22,7 @@ body { padding-top: 50px; }
 .nav_client {
     letter-spacing: 4px;
     background: #3c8dbc;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     text-align: center;
     font-weight: bold;
     padding-top: 7px;
@@ -33,9 +33,7 @@ body { padding-top: 50px; }
 /*---------------------------------------*/
 
 /*Поля для ввода текста*/
-.form-control { margin-bottom: 20px; display: block; float: left; height: 25px; }
-
-.input_text { display: block; float: left; margin-top: 3px; margin-left: 5px; font-weight: bold; }
+.input_text { font-weight: bold; display: inline; }
 /*---------------------------------------*/
 
 /*Касается всех таблиц*/
